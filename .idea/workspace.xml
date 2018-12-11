@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="508ee6a2-3bda-454c-8872-407d5832834c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,59 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CommentsList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.js">
+      <file leaf-file-name="PostAdd.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/PostAdd/PostAdd.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
+      <file leaf-file-name="CommentAdd.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiaryNotes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiaryNotes.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Post.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Post/Post.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommentsList.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -85,6 +45,9 @@
       <find>comment</find>
       <find>PostsAdd</find>
       <find>PostAdd</find>
+      <find>hea</find>
+      <find>new</find>
+      <find>new-pos</find>
     </findStrings>
     <replaceStrings>
       <replace>.Post__</replace>
@@ -120,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/components/CommentsList/CommentsList.js" />
         <option value="$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.css" />
         <option value="$PROJECT_DIR$/src/components/Post/Post.css" />
+        <option value="$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.css" />
       </list>
     </option>
   </component>
@@ -140,10 +104,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2164" />
-    <option name="y" value="217" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -157,73 +121,33 @@
         <subPane>
           <expand>
             <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Comment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="CommentAdd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="CommentsList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="DiaryNotes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Post" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="PostAdd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Sidebar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,6 +200,7 @@
       <workItem from="1544500769195" duration="70000" />
       <workItem from="1544505190534" duration="68000" />
       <workItem from="1544541012228" duration="5977000" />
+      <workItem from="1544565295644" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1544482728453</created>
@@ -288,13 +213,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37599000" />
+    <option name="totallyTimeSpent" value="37787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-82" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.1085353" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.14672835" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -302,7 +227,7 @@
       <window_info anchor="bottom" id="Run" order="6" weight="0.3265086" />
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32905984" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -325,6 +250,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Post/Post.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -438,16 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/PostAdd/PostAdd.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/PostAdd/PostAdd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -459,16 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Comment/Comment.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -479,48 +429,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="255">
           <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/DiaryNotes/DiaryNotes.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Post/Post.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Comment/Comment.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CommentsList/CommentsList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PostAdd/PostAdd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>

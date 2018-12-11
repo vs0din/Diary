@@ -1,0 +1,20 @@
+.CommentAdd__head {
+    padding: 0px 25px;
+    margin-bottom: 25px
+}
+
+.CommentAdd__new-post {
+    background-color: #26ccbf;
+    padding: 0 25px;
+    color: #fff;
+}
+
+.CommentAdd__new-post:hover {
+    color: #fff;
+    background-color: #25a49a;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease
+}
