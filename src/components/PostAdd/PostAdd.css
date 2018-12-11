@@ -1,0 +1,47 @@
+.PostAdd__title {
+    color: #555968;
+    margin-bottom: 35px;
+}
+
+.PostAdd__head {
+    padding: 0px 25px;
+    margin-bottom: 25px
+}
+
+.PostAdd__new-post {
+    background-color: #26ccbf;
+    padding: 0 25px;
+    color: #fff;
+
+}
+
+#btnNew {
+    padding: 0 35px;
+}
+
+.PostAdd__new-post:hover {
+    color: #fff;
+    background-color: #25a49a;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease
+}
+
+input.form-control::placeholder {
+    font-size: 16px;
+}
+
+input.form-control::-webkit-input-placeholder {
+    font-size: 16px;
+}
+input.form-control::-moz-placeholder {
+    font-size: 16px;
+}
+input.form-control:-ms-input-placeholder {
+    font-size: 16px;
+}
+input.form-control:-moz-placeholder {
+    font-size: 16px;
+}

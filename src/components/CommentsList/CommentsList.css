@@ -1,0 +1,9 @@
+.CommentsList__title {
+    color: #555968;
+    margin-bottom: 45px;
+    padding: 0 25px;
+}
+
+.comments:last-child .divider {
+    display:none;
+}
