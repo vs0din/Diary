@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Sidebar from './components/Sidebar/Sidebar'
-import DiaryNotes from './components/DiaryNotes/DiaryNotes'
+import DiaryNotes from './components/hoc/DiaryNotes'
 
 class App extends Component {
   render() {

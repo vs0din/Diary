@@ -27,6 +27,6 @@ const DiaryNotes = () => {
       </div>
   )
 
-}
+};
 
 export default DiaryNotes
