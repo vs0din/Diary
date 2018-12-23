@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="508ee6a2-3bda-454c-8872-407d5832834c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/CommentAdd/CommentAdd.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CommentAdd/CommentAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/CommentAdd/CommentAdd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostAdd/PostAdd.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/PostAdd/PostAdd.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostAdd/PostAdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/PostAdd/PostAdd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hoc/DiaryNotes.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/DiaryNotes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hoc/DiaryNotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/DiaryNotes.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -53,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiaryNotes.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiaryNotes.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hoc/DiaryNotes.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -168,24 +159,6 @@
               <item name="Diary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="containers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hoc" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -197,8 +170,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../_shaggy" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="C:\Users\Stavr\Desktop\react\_probes\blogd\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -242,7 +218,7 @@
       <workItem from="1544541012228" duration="5977000" />
       <workItem from="1544565295644" duration="188000" />
       <workItem from="1545577816682" duration="2305000" />
-      <workItem from="1545593303497" duration="474000" />
+      <workItem from="1545593303497" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1544482728453</created>
@@ -255,13 +231,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40566000" />
+    <option name="totallyTimeSpent" value="40835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.14672835" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.14672835" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -269,7 +244,7 @@
       <window_info anchor="bottom" id="Run" order="6" weight="0.3265086" />
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32905984" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -504,16 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-189" />
@@ -523,6 +488,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
