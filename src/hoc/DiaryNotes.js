@@ -1,9 +1,9 @@
 import React from 'react';
 import './DiaryNotes.css';
-import PostAdd from '../PostAdd/PostAdd'
-import PostList from '../PostsList/PostList'
-import CommentsList from '../CommentsList/CommentsList'
-import CommentAdd from "../CommentAdd/CommentAdd";
+import PostAdd from '../containers/PostAdd/PostAdd'
+import PostList from '../components/PostsList/PostList'
+import CommentsList from '../components/CommentsList/CommentsList'
+import CommentAdd from "../containers/CommentAdd/CommentAdd";
 
 const DiaryNotes = () => {
   return (
